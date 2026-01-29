@@ -10,6 +10,6 @@ dependencies = [
     "sentence-transformers==5.0.0",
     "fastapi==0.116.1",
     "uvicorn==0.35.0",
-    "python-multipart==0.0.20",
+    "python-multipart==0.0.22",
     "python-dotenv==1.1.1",
 ]
